@@ -1,0 +1,61 @@
+<!DOCTYPE html> 
+<head>
+	<meta charset ="utf-8">
+	<title>Aimmer</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div class= "Centerimage">
+	<img src="images/aim_logo.png">
+	<h1>i am aim.</h1>
+	<h4>PORNSIMA DUANGRATANA</h4>
+	<p><strong>i am aim</strong> Pornsima Duangratana<br>
+	My email is pornsimad11@gmail.com<br> 
+	My phone number is (917)528-1642<br>
+	<em>Please take a moment and get to know me better!</em><br>
+	<a id="Lets-go-button" href="#Categories"><button>Let's Go!</button></a>
+		<div id="Categories">
+	<ul id="Category-list">
+		<a href="#Poster"><li>Poster</li></a>
+		<a href="#Infographic"><li>Infographic</li></a>
+		<a href="#Book Layout"><li>Book Layout</li></a>
+	</ul>
+	</div>
+	</div>
+	
+	<div id="Poster">
+	<h5>What we say is not what it sees.</h5>
+			<p>Campaign to prove how we are Humanizing Animals by showing how human and animal are separated by</br>
+ 			"Language" and although dogs are able to see the same "Objects", they see it through a whole new</br>
+  			perspective with different set of understandings. Quotes from Because of Winn-Dixie.</p>
+
+  			<p><em>42 X 59.4 cm</em></p>
+
+			<img src="images/Final-poster1-01.jpg" width"670" height="948" width_o="1190" height_o"1684">
+			<img src="images/Final-poster2-02.jpg" width"670" height="948" width_o="1190" height_o"1684">
+			<img src="images/Final-poster3-03.jpg" width"670" height="948" width_o="1190" height_o"1684">
+	</div>
+
+	<div id="Infographic">
+	<h5>Fifa World Cup 2010</h5>
+			<p>The schedule is designed to meet 4 objectives of the Fifa World Cup 2010 in South Africa. 1. Which is the<br>
+ 			matching team, 2. The Date, 3. The Time, 4. The Stadium. I displayed the information in a structural circular<br>
+ 			form to show a clear pattern of the event. </p>
+			
+			<p><em>42 X 59.4 cm</em></p>
+			
+			<img src="images/FIFA-SCH.png" width="670" height="463" width_o="2076" height_o="1463">
+	</div>
+
+	<div id="Book Layout">
+	<h5>Fontbook</h5>
+			<p>Having to work with the font Tribute by Frank Heine was inspiring. Although it was a remake of the classic</br>Francois Guyot's font since the 1530s but the elegance and the old style was still there. I portrayed this font</br> in a classic novel book to grasp the texture and the gracefulness of Tribute.</p>
+
+			<p><em>13 X 21 cm </em></p>
+
+
+			<img src="images/1fontbook1_o.jpg" width="670" height="443" width_o="5000" height_o="3311">
+	</div>
+		
+</body>
+</html>

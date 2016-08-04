@@ -1,0 +1,30 @@
+h4 {
+	color: gray;
+	font-size:7px;
+	font-weight: lighter;
+	letter-spacing: 10px;
+}
+
+#Category-list {
+	color:gray;
+	font-size:10px;
+	font-family: sans-serif;
+	font-weight: lighter;
+	position: relative;
+	top:20px;
+}
+
+.Centerimage {
+margin:auto;
+width:50%;
+padding:10%;
+
+/*	text-align: center;
+	position: relative;
+	top:20px;*/
+
+}
+#Lets-go-button {
+	position:relative;
+	top:20px;
+}
