@@ -1,30 +1,66 @@
-h4 {
-	color: gray;
-	font-size:7px;
-	font-weight: lighter;
-	letter-spacing: 10px;
+#logo{
+  position: relative;
+  top: 20px;
+  left: 20px;
 }
 
-#Category-list {
-	color:gray;
-	font-size:10px;
-	font-family: sans-serif;
-	font-weight: lighter;
+#graphic-designer{
 	position: relative;
-	top:20px;
+	font-family: 'Noto Sans', sans-serif;
+	top: -150px;
+	text-align: center;
 }
 
-.Centerimage {
-margin:auto;
-width:50%;
-padding:10%;
-
-/*	text-align: center;
+#come-look{
 	position: relative;
-	top:20px;*/
-
+	font-family: 'Noto Sans', sans-serif;
+	top: -150px;
+	text-align: center;
+	border: none;
+	background: white;
 }
-#Lets-go-button {
-	position:relative;
-	top:20px;
+
+.project-row{
+	width:100vw;
+    margin: auto;
+}
+
+.image-project{
+	width:33vw;
+	display: inline-block;
+	-webkit-filter: grayscale(100%);
+	-webkit-transition: .5s ease-in-out;
+	opacity: 0.2;
+	opacity-transition: .5s ease-in-out;
+}
+
+.image-project:hover{
+	opacity: 1.0;	
+	opacity-transition: .5s ease-in-out; 
+	-webkit-filter: grayscale(0%);
+	-webkit-transition: .5s ease-in-out;
+}
+img {
+	filter: grayscale(50%);
+}
+
+h1{
+	font-size: 200px;
+	font-family: 'Noto Sans', sans-serif;
+	text-align: center;
+}
+
+
+.thumbnails{
+display: inline block;
+margin: 0px;
+padding: 0px;
+position: relative;
+top: 90px;
+-webkit-filter: grayscale(100%);
+filter: grayscale(50%);
+}
+
+body{
+	margin: 0;
 }

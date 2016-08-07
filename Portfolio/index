@@ -1,19 +1,111 @@
 <!DOCTYPE html> 
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
 <head>
 	<meta charset ="utf-8">
 	<title>Aimmer</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link href='https://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	<img src="images/aim_logo_portfolio.png">
+<div>
+	<img id="logo" src="images/aim_logo_portfolio.png">
 	<h1><strong>i am aim. i am</strong></h1>
-	<h3>a graphic designer.</h3>
-	<button> Come look at me </button>
-
-	<div>
-		<img src="images/thumbnail/thumbnail-01.png">
-
+	<h3 id="graphic-designer">a graphic designer.</h3>
+	<button id="come-look"> Come look at me </button>
 	</div>
+
+	<div class="project-row">
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail1.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail2.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail3.png">
+	</div>
+	</div>
+
+	<div class="project-row">
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail4.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail5.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail6.png">
+	</div>
+	</div>
+
+	<div class="project-row">
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail7.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail8.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail9.png">
+	</div>
+	</div>
+
+	<div class="project-row">
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail10.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail11.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail12.png">
+	</div>
+	</div>
+
+	<div class="project-row">
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail13.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail14.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail15.png">
+	</div>
+	</div>
+
+	<div class="project-row">
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail16.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail17.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail18.png">
+	</div>
+	</div>
+
+	<div class="project-row">
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail19.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail20.png">
+	</div>
+	<div class="image-project">
+		<img src="images/thumbnail/thumbnail21.png">
+	</div>
+	</div>
+
+
 	
 		
 </body>
