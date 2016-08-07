@@ -1,26 +1,31 @@
 <!DOCTYPE html> 
 <html>
 <head>
-	<title></title>
-</head>
-<body>
-
-</body>
-</html>
-<head>
 	<meta charset ="utf-8">
 	<title>Aimmer</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link href='https://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 </head>
 <body>
-<div>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="js/smoothscroll.js"></script>
+
 	<img id="logo" src="images/aim_logo_portfolio.png">
+	<img id="menu" src="images/menu.png">
+
+<div id="header">
+	<div id="i-am-aim">
 	<h1><strong>i am aim. i am</strong></h1>
 	<h3 id="graphic-designer">a graphic designer.</h3>
-	<button id="come-look"> Come look at me </button>
-	</div>
+</div>
+</div>
 
+
+	<a href="#projects" class="smoothScroll"><div id="come-look"> Come look<br> at me 
+	<img id="arrow-down" src="images/arrow_down.png">
+	</div></a>
+
+	<div id="projects">
 	<div class="project-row">
 	<div class="image-project">
 		<img src="images/thumbnail/thumbnail1.png">
@@ -104,9 +109,6 @@
 		<img src="images/thumbnail/thumbnail21.png">
 	</div>
 	</div>
-
-
-	
-		
+	</div>		
 </body>
 </html>
