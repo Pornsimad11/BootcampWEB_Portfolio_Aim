@@ -23,6 +23,14 @@
 	margin: 0px;
 }
 
+.Footer{ 
+	position: relative;
+	top:20px;
+	text-align: center;
+	margin: 0px;
+}
+ 
+
 
 h1 {
 	font-size: 13.9vw;
@@ -59,6 +67,9 @@ h1 {
 	border: none;
 	background: white;
 	font-size: 12px;
+}
+
+
 }
 .smoothScroll:link{
 	text-decoration: none;
@@ -140,4 +151,82 @@ body{
     -webkit-margin-after: 1em;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
+}
+#Footer{
+	position: relative;
+	top:30px;
+	padding-bottom: 100px;
+	text-align: center;
+	margin: 0px;
+}
+
+#see-me{
+	position: relative;
+	font-family: 'Noto Sans', sans-serif;
+	top: 10px;
+	text-align: center;
+	border: none;
+	background: white;
+	font-size: 12px;
+}
+.smoothScroll:link{
+	text-decoration: none;
+	color:black;
+}
+
+.smoothScroll:visited{
+	text-decoration: none;
+	color:black;
+}
+.smoothScroll:hover{
+	text-decoration: none;
+	color:grey;
+}
+.smoothScroll:active{
+	text-decoration: none;
+	color:black;
+}
+
+#or{
+	position: relative;
+	font-family: 'Noto Sans', sans-serif;
+	top: 10px;
+	text-align: center;
+	border: none;
+	background: white;
+	font-size: 12px;
+}
+
+.Mail-me{
+	position: relative;
+	font-family: 'Noto Sans', sans-serif;
+	top: 10px;
+	text-align: center;
+	border: none;
+	background: white;
+	font-size: 12px;
+	display: block;
+	padding-bottom: 20px;
+}
+.Mail-me:link{
+	text-decoration: none;
+	color:black;
+}
+.Mail-me:visited{
+	text-decoration: none;
+	color:black;
+}
+.Mail-me:hover{
+	text-decoration: none;
+	color:grey;
+}
+.Mail-me:active{
+	text-decoration: none;
+	color:black;
+}
+#logo-bottom{
+  position: relative;
+  top: 10px;
+  text-align: center;
+  display:inline-block;
 }
